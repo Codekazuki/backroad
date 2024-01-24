@@ -1,7 +1,7 @@
-import tour1 from "../images/tour-1.jpeg";
-import tour2 from "../images/tour-2.jpeg";
-import tour3 from "../images/tour-3.jpeg";
-import tour4 from "../images/tour-4.jpeg";
+import tour1 from "./images/tour-1.jpeg";
+import tour2 from "./images/tour-2.jpeg";
+import tour3 from "./images/tour-3.jpeg";
+import tour4 from "./images/tour-4.jpeg";
 
 export const pageLinks = [
   { id: 1, href: "#home", text: "home" },
@@ -67,6 +67,18 @@ export const tourData = [
   {
     id: 3,
     imag: tour3,
+    date: "October 5th, 2022",
+    title: "Badagry Adventure",
+    message:
+      "Myself and david started it but lekan did not allow it to manifest because he is scared of water",
+    icon: "fas fa-map",
+    country: " Liberia",
+    text1: "8 days",
+    text2: "From $800",
+  },
+  {
+    id: 4,
+    imag: tour4,
     date: "October 5th, 2022",
     title: "Badagry Adventure",
     message:
