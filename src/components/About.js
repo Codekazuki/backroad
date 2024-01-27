@@ -14,15 +14,10 @@ const About = () => {
         <article className='about-info'>
           <h3>explore the difference</h3>
           <p>
-            Lorem ipsum, dolor sit amet consectetur adipisicing elit. Aspernatur
-            quisquam harum nam cumque temporibus explicabo dolorum sapiente odio
-            unde dolor?
+            For some time now,the youth department of the church haven't been
+            active ,but then thigs have changed
           </p>
-          <p>
-            Lorem ipsum, dolor sit amet consectetur adipisicing elit. Aspernatur
-            quisquam harum nam cumque temporibus explicabo dolorum sapiente odio
-            unde dolor?
-          </p>
+          <p>We are starting with this adventure .....this trip to Baraccuda</p>
           <a href='#about' className='btn'>
             read more
           </a>
