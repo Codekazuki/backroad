@@ -14,8 +14,8 @@ const About = () => {
         <article className='about-info'>
           <h3>explore the difference</h3>
           <p>
-            For some time now,the youth department of the church haven't been
-            active ,but then thigs have changed
+            For some time now,the youth department of the church:JLZ haven't
+            been active ,but then thigs have changed
           </p>
           <p>We are starting with this adventure .....this trip to Baraccuda</p>
           <a href='#about' className='btn'>
