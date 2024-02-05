@@ -43,7 +43,7 @@ export const tourData = [
   {
     id: 1,
     imag: tour1,
-    date: "August 26th, 2020",
+    date: "Feb 24th, 2024 around 4pm",
     title: "Tibet Adventure",
     message:
       "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Cumque vitae tempore voluptatum maxime reprehenderit eum quod exercitationem fugit, qui corporis.",
